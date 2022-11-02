@@ -217,6 +217,8 @@ export const countries: Countries = {
   UZ: "Uzbekistan",
   VU: "Vanuatu",
   VE: "Venezuela, Bolivarian Republic of",
+  'GB-ENG' : "England",
+  'GB-WLS' : "Wales",
   VN: "Viet Nam",
   VI: "Virgin Islands",
   YE: "Yemen",
